@@ -7,7 +7,7 @@ const TitlePresentacion = (props) => {
         {props.text}
       </Typography>
      );
-}
+};
  
 export default TitlePresentacion;
 
