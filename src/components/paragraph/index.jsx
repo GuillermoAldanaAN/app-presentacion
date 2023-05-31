@@ -7,7 +7,7 @@ const ParagraphPresentacion = ({text}) => {
         {text}
       </Typography>
      );
-}
+};
  
 export default ParagraphPresentacion;
 
